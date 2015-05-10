@@ -1,4 +1,4 @@
-# -ARDUINO---DATA_Rx_Tx_MEGA2650
+# ARDUINO DATA Rx/Tx MEGA2650
 
 Goal : 
 Transmit Datas Via AUDIO channel of FPV VTx to control Antenna Traker
